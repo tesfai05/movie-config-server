@@ -8,4 +8,4 @@ eureka:
   hostname: localhost
  
  
-value: from git 
+rating.value: from git 
