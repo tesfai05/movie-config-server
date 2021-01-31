@@ -8,4 +8,5 @@ eureka:
   hostname: localhost
  
  
-movie-config-server: from git 
+movie-config-server:
+ value: from git 
