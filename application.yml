@@ -6,3 +6,6 @@ eureka:
    defaultZone: http://localhost:8010/eureka/
  instance:
   hostname: localhost
+ 
+ 
+value: from git 
